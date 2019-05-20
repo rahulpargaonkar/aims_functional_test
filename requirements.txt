@@ -1,0 +1,6 @@
+getgauge
+requests
+invoke
+subprocess.run
+ipython
+ipdb

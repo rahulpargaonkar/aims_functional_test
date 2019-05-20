@@ -1,0 +1,2112 @@
+{
+    "orgList":[
+       {
+          "id":0,
+          "name":"Software",
+          "arAmount":9381893.989999998,
+          "postDue":8835816.239999998,
+          "arAmountDisplay":"$9,381,894",
+          "postDueDisplay":"$8,835,816",
+          "percentage":94,
+          "color":"RED",
+          "clientList":[
+             {
+                "id":19,
+                "name":"AUREA",
+                "arAmount":-42444.0,
+                "postDue":-42446.0,
+                "arAmountDisplay":"-$42,444",
+                "postDueDisplay":"-$42,446",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":2.0,
+                      "amountDisplay":"$2"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":10.0,
+                      "amountDisplay":"$10"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":-32700.0,
+                      "amountDisplay":"-$32,700"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":-88273.0,
+                      "amountDisplay":"-$88,273"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":20,
+                "name":"BRAVADO",
+                "arAmount":8392232.84,
+                "postDue":8392232.84,
+                "arAmountDisplay":"$8,392,233",
+                "postDueDisplay":"$8,392,233",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":25000.0,
+                      "amountDisplay":"$25,000"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":8288627.0,
+                      "amountDisplay":"$8,288,627"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":88.84,
+                      "amountDisplay":"$89"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":24,
+                "name":"CAMBIUM",
+                "arAmount":-54838.42999999999,
+                "postDue":-54848.42999999999,
+                "arAmountDisplay":"-$54,838",
+                "postDueDisplay":"-$54,848",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":10.0,
+                      "amountDisplay":"$10"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":14175.0,
+                      "amountDisplay":"$14,175"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-69023.43,
+                      "amountDisplay":"-$69,023"
+                   }
+                ]
+             },
+             {
+                "id":21,
+                "name":"@HAND",
+                "arAmount":171178.78,
+                "postDue":96678.78,
+                "arAmountDisplay":"$171,179",
+                "postDueDisplay":"$96,679",
+                "percentage":56,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":74500.0,
+                      "amountDisplay":"$74,500"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":74500.0,
+                      "amountDisplay":"$74,500"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":22178.78,
+                      "amountDisplay":"$22,179"
+                   }
+                ]
+             },
+             {
+                "id":23,
+                "name":"ONEAPPS",
+                "arAmount":0.0,
+                "postDue":0.0,
+                "arAmountDisplay":"$0",
+                "postDueDisplay":"$0",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":38,
+                "name":"JIVE",
+                "arAmount":3600.0,
+                "postDue":3600.0,
+                "arAmountDisplay":"$3,600",
+                "postDueDisplay":"$3,600",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":1200.0,
+                      "amountDisplay":"$1,200"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":2400.0,
+                      "amountDisplay":"$2,400"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":37,
+                "name":"CHS",
+                "arAmount":0.0,
+                "postDue":0.0,
+                "arAmountDisplay":"$0",
+                "postDueDisplay":"$0",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":25,
+                "name":"E-AGILITY",
+                "arAmount":343711.77999999997,
+                "postDue":150761.78,
+                "arAmountDisplay":"$343,712",
+                "postDueDisplay":"$150,762",
+                "percentage":43,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":192950.0,
+                      "amountDisplay":"$192,950"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":114749.99,
+                      "amountDisplay":"$114,750"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":3200.0,
+                      "amountDisplay":"$3,200"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":-4000.0,
+                      "amountDisplay":"-$4,000"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":36811.79,
+                      "amountDisplay":"$36,812"
+                   }
+                ]
+             },
+             {
+                "id":29,
+                "name":"SENCHA",
+                "arAmount":74535.68,
+                "postDue":27269.93,
+                "arAmountDisplay":"$74,536",
+                "postDueDisplay":"$27,270",
+                "percentage":36,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":47265.75,
+                      "amountDisplay":"$47,266"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":33090.75,
+                      "amountDisplay":"$33,091"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-5820.82,
+                      "amountDisplay":"-$5,821"
+                   }
+                ]
+             },
+             {
+                "id":27,
+                "name":"EMBARCADERO",
+                "arAmount":62999.99,
+                "postDue":27999.99,
+                "arAmountDisplay":"$63,000",
+                "postDueDisplay":"$28,000",
+                "percentage":44,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":35000.0,
+                      "amountDisplay":"$35,000"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":28000.0,
+                      "amountDisplay":"$28,000"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-0.01,
+                      "amountDisplay":"-$0"
+                   }
+                ]
+             },
+             {
+                "id":30,
+                "name":"MAPP",
+                "arAmount":57000.0,
+                "postDue":28500.0,
+                "arAmountDisplay":"$57,000",
+                "postDueDisplay":"$28,500",
+                "percentage":50,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":28500.0,
+                      "amountDisplay":"$28,500"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":28500.0,
+                      "amountDisplay":"$28,500"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":26,
+                "name":"eBAY",
+                "arAmount":39855.35,
+                "postDue":39855.35,
+                "arAmountDisplay":"$39,855",
+                "postDueDisplay":"$39,855",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":39855.35,
+                      "amountDisplay":"$39,855"
+                   }
+                ]
+             },
+             {
+                "id":28,
+                "name":"GOLDMAN S",
+                "arAmount":161562.0,
+                "postDue":79962.0,
+                "arAmountDisplay":"$161,562",
+                "postDueDisplay":"$79,962",
+                "percentage":49,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":81600.0,
+                      "amountDisplay":"$81,600"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":79962.0,
+                      "amountDisplay":"$79,962"
+                   }
+                ]
+             },
+             {
+                "id":22,
+                "name":"BRITISH TELECOM",
+                "arAmount":172500.0,
+                "postDue":86250.0,
+                "arAmountDisplay":"$172,500",
+                "postDueDisplay":"$86,250",
+                "percentage":50,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":86250.0,
+                      "amountDisplay":"$86,250"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":86250.0,
+                      "amountDisplay":"$86,250"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "id":1,
+          "name":"Labs",
+          "arAmount":835228.51,
+          "postDue":157316.72999999998,
+          "arAmountDisplay":"$835,229",
+          "postDueDisplay":"$157,317",
+          "percentage":18,
+          "color":"RED",
+          "clientList":[
+             {
+                "id":43,
+                "name":"Digital River Inc",
+                "arAmount":78517.0,
+                "postDue":-7733.0,
+                "arAmountDisplay":"$78,517",
+                "postDueDisplay":"-$7,733",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":86250.0,
+                      "amountDisplay":"$86,250"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":-86250.0,
+                      "amountDisplay":"-$86,250"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":41,
+                "name":"Bravado Health",
+                "arAmount":75403.20000000001,
+                "postDue":0.0,
+                "arAmountDisplay":"$75,403",
+                "postDueDisplay":"$0",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":75403.2,
+                      "amountDisplay":"$75,403"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-78517.0,
+                      "amountDisplay":"-$78,517"
+                   }
+                ]
+             },
+             {
+                "id":48,
+                "name":"Sencha Inc",
+                "arAmount":112999.99,
+                "postDue":77999.99,
+                "arAmountDisplay":"$113,000",
+                "postDueDisplay":"$78,000",
+                "percentage":69,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":35000.0,
+                      "amountDisplay":"$35,000"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":28000.0,
+                      "amountDisplay":"$28,000"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":50000.0,
+                      "amountDisplay":"$50,000"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-0.01,
+                      "amountDisplay":"-$0"
+                   }
+                ]
+             },
+             {
+                "id":39,
+                "name":"Accolite Inc",
+                "arAmount":-37730.71999999997,
+                "postDue":-343673.55,
+                "arAmountDisplay":"-$37,731",
+                "postDueDisplay":"-$343,674",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":305942.83,
+                      "amountDisplay":"$305,943"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":-224802.55,
+                      "amountDisplay":"-$224,803"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":-128627.0,
+                      "amountDisplay":"-$128,627"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":88273.0,
+                      "amountDisplay":"$88,273"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-78517.0,
+                      "amountDisplay":"-$78,517"
+                   }
+                ]
+             },
+             {
+                "id":50,
+                "name":"Springbox Labs Inc",
+                "arAmount":82117.0,
+                "postDue":82117.0,
+                "arAmountDisplay":"$82,117",
+                "postDueDisplay":"$82,117",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":1200.0,
+                      "amountDisplay":"$1,200"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":2400.0,
+                      "amountDisplay":"$2,400"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":51,
+                "name":"Versata Software Inc",
+                "arAmount":74535.68,
+                "postDue":27269.93,
+                "arAmountDisplay":"$74,536",
+                "postDueDisplay":"$27,270",
+                "percentage":36,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":47265.75,
+                      "amountDisplay":"$47,266"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":33090.75,
+                      "amountDisplay":"$33,091"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-5820.82,
+                      "amountDisplay":"-$5,821"
+                   }
+                ]
+             },
+             {
+                "id":46,
+                "name":"Idera Inc",
+                "arAmount":-271688.2,
+                "postDue":-78738.20000000001,
+                "arAmountDisplay":"-$271,688",
+                "postDueDisplay":"-$78,738",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":-192950.0,
+                      "amountDisplay":"-$192,950"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":-114749.99,
+                      "amountDisplay":"-$114,750"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":3200.0,
+                      "amountDisplay":"$3,200"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":-4000.0,
+                      "amountDisplay":"-$4,000"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":36811.79,
+                      "amountDisplay":"$36,812"
+                   }
+                ]
+             },
+             {
+                "id":47,
+                "name":"Redknee Inc",
+                "arAmount":39855.35,
+                "postDue":39855.35,
+                "arAmountDisplay":"$39,855",
+                "postDueDisplay":"$39,855",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":39855.35,
+                      "amountDisplay":"$39,855"
+                   }
+                ]
+             },
+             {
+                "id":52,
+                "name":"Worldline",
+                "arAmount":57000.0,
+                "postDue":28500.0,
+                "arAmountDisplay":"$57,000",
+                "postDueDisplay":"$28,500",
+                "percentage":50,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":28500.0,
+                      "amountDisplay":"$28,500"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":28500.0,
+                      "amountDisplay":"$28,500"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":40,
+                "name":"AquaFold Inc",
+                "arAmount":63163.0,
+                "postDue":63163.0,
+                "arAmountDisplay":"$63,163",
+                "postDueDisplay":"$63,163",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":25000.0,
+                      "amountDisplay":"$25,000"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":-128627.0,
+                      "amountDisplay":"-$128,627"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":88273.0,
+                      "amountDisplay":"$88,273"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":45,
+                "name":"g Team FZ-LLC",
+                "arAmount":83198.43,
+                "postDue":83198.43,
+                "arAmountDisplay":"$83,198",
+                "postDueDisplay":"$83,198",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":14175.0,
+                      "amountDisplay":"$14,175"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":69023.43,
+                      "amountDisplay":"$69,023"
+                   }
+                ]
+             },
+             {
+                "id":42,
+                "name":"CHSPSC LLC",
+                "arAmount":249695.78,
+                "postDue":175195.78,
+                "arAmountDisplay":"$249,696",
+                "postDueDisplay":"$175,196",
+                "percentage":70,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":74500.0,
+                      "amountDisplay":"$74,500"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":74500.0,
+                      "amountDisplay":"$74,500"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":22178.78,
+                      "amountDisplay":"$22,179"
+                   }
+                ]
+             },
+             {
+                "id":44,
+                "name":"Embarcadero Technologies",
+                "arAmount":66600.0,
+                "postDue":-69800.0,
+                "arAmountDisplay":"$66,600",
+                "postDueDisplay":"-$69,800",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":136400.0,
+                      "amountDisplay":"$136,400"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":12900.0,
+                      "amountDisplay":"$12,900"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":-32700.0,
+                      "amountDisplay":"-$32,700"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-50000.0,
+                      "amountDisplay":"-$50,000"
+                   }
+                ]
+             },
+             {
+                "id":49,
+                "name":"Sheridan Health Corp Inc",
+                "arAmount":161562.0,
+                "postDue":79962.0,
+                "arAmountDisplay":"$161,562",
+                "postDueDisplay":"$79,962",
+                "percentage":49,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":81600.0,
+                      "amountDisplay":"$81,600"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":79962.0,
+                      "amountDisplay":"$79,962"
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "id":2,
+          "name":"Accolite",
+          "arAmount":1.0217122499999996E7,
+          "postDue":8993132.969999997,
+          "arAmountDisplay":"$10,217,122",
+          "postDueDisplay":"$8,993,133",
+          "percentage":88,
+          "color":"RED",
+          "clientList":[
+             {
+                "id":19,
+                "name":"AUREA",
+                "arAmount":-42444.0,
+                "postDue":-42446.0,
+                "arAmountDisplay":"-$42,444",
+                "postDueDisplay":"-$42,446",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":2.0,
+                      "amountDisplay":"$2"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":10.0,
+                      "amountDisplay":"$10"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":-32700.0,
+                      "amountDisplay":"-$32,700"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":-88273.0,
+                      "amountDisplay":"-$88,273"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":20,
+                "name":"BRAVADO",
+                "arAmount":8392232.84,
+                "postDue":8392232.84,
+                "arAmountDisplay":"$8,392,233",
+                "postDueDisplay":"$8,392,233",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":25000.0,
+                      "amountDisplay":"$25,000"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":8288627.0,
+                      "amountDisplay":"$8,288,627"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":88.84,
+                      "amountDisplay":"$89"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":24,
+                "name":"CAMBIUM",
+                "arAmount":-54838.42999999999,
+                "postDue":-54848.42999999999,
+                "arAmountDisplay":"-$54,838",
+                "postDueDisplay":"-$54,848",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":10.0,
+                      "amountDisplay":"$10"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":14175.0,
+                      "amountDisplay":"$14,175"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-69023.43,
+                      "amountDisplay":"-$69,023"
+                   }
+                ]
+             },
+             {
+                "id":21,
+                "name":"@HAND",
+                "arAmount":171178.78,
+                "postDue":96678.78,
+                "arAmountDisplay":"$171,179",
+                "postDueDisplay":"$96,679",
+                "percentage":56,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":74500.0,
+                      "amountDisplay":"$74,500"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":74500.0,
+                      "amountDisplay":"$74,500"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":22178.78,
+                      "amountDisplay":"$22,179"
+                   }
+                ]
+             },
+             {
+                "id":23,
+                "name":"ONEAPPS",
+                "arAmount":0.0,
+                "postDue":0.0,
+                "arAmountDisplay":"$0",
+                "postDueDisplay":"$0",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":38,
+                "name":"JIVE",
+                "arAmount":3600.0,
+                "postDue":3600.0,
+                "arAmountDisplay":"$3,600",
+                "postDueDisplay":"$3,600",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":1200.0,
+                      "amountDisplay":"$1,200"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":2400.0,
+                      "amountDisplay":"$2,400"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":37,
+                "name":"CHS",
+                "arAmount":0.0,
+                "postDue":0.0,
+                "arAmountDisplay":"$0",
+                "postDueDisplay":"$0",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":25,
+                "name":"E-AGILITY",
+                "arAmount":343711.77999999997,
+                "postDue":150761.78,
+                "arAmountDisplay":"$343,712",
+                "postDueDisplay":"$150,762",
+                "percentage":43,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":192950.0,
+                      "amountDisplay":"$192,950"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":114749.99,
+                      "amountDisplay":"$114,750"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":3200.0,
+                      "amountDisplay":"$3,200"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":-4000.0,
+                      "amountDisplay":"-$4,000"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":36811.79,
+                      "amountDisplay":"$36,812"
+                   }
+                ]
+             },
+             {
+                "id":29,
+                "name":"SENCHA",
+                "arAmount":74535.68,
+                "postDue":27269.93,
+                "arAmountDisplay":"$74,536",
+                "postDueDisplay":"$27,270",
+                "percentage":36,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":47265.75,
+                      "amountDisplay":"$47,266"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":33090.75,
+                      "amountDisplay":"$33,091"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-5820.82,
+                      "amountDisplay":"-$5,821"
+                   }
+                ]
+             },
+             {
+                "id":27,
+                "name":"EMBARCADERO",
+                "arAmount":62999.99,
+                "postDue":27999.99,
+                "arAmountDisplay":"$63,000",
+                "postDueDisplay":"$28,000",
+                "percentage":44,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":35000.0,
+                      "amountDisplay":"$35,000"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":28000.0,
+                      "amountDisplay":"$28,000"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-0.01,
+                      "amountDisplay":"-$0"
+                   }
+                ]
+             },
+             {
+                "id":30,
+                "name":"MAPP",
+                "arAmount":57000.0,
+                "postDue":28500.0,
+                "arAmountDisplay":"$57,000",
+                "postDueDisplay":"$28,500",
+                "percentage":50,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":28500.0,
+                      "amountDisplay":"$28,500"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":28500.0,
+                      "amountDisplay":"$28,500"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":26,
+                "name":"eBAY",
+                "arAmount":39855.35,
+                "postDue":39855.35,
+                "arAmountDisplay":"$39,855",
+                "postDueDisplay":"$39,855",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":39855.35,
+                      "amountDisplay":"$39,855"
+                   }
+                ]
+             },
+             {
+                "id":28,
+                "name":"GOLDMAN S",
+                "arAmount":161562.0,
+                "postDue":79962.0,
+                "arAmountDisplay":"$161,562",
+                "postDueDisplay":"$79,962",
+                "percentage":49,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":81600.0,
+                      "amountDisplay":"$81,600"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":79962.0,
+                      "amountDisplay":"$79,962"
+                   }
+                ]
+             },
+             {
+                "id":22,
+                "name":"BRITISH TELECOM",
+                "arAmount":172500.0,
+                "postDue":86250.0,
+                "arAmountDisplay":"$172,500",
+                "postDueDisplay":"$86,250",
+                "percentage":50,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":86250.0,
+                      "amountDisplay":"$86,250"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":86250.0,
+                      "amountDisplay":"$86,250"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":43,
+                "name":"Digital River Inc",
+                "arAmount":78517.0,
+                "postDue":-7733.0,
+                "arAmountDisplay":"$78,517",
+                "postDueDisplay":"-$7,733",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":86250.0,
+                      "amountDisplay":"$86,250"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":-86250.0,
+                      "amountDisplay":"-$86,250"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":41,
+                "name":"Bravado Health",
+                "arAmount":75403.20000000001,
+                "postDue":0.0,
+                "arAmountDisplay":"$75,403",
+                "postDueDisplay":"$0",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":75403.2,
+                      "amountDisplay":"$75,403"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-78517.0,
+                      "amountDisplay":"-$78,517"
+                   }
+                ]
+             },
+             {
+                "id":48,
+                "name":"Sencha Inc",
+                "arAmount":112999.99,
+                "postDue":77999.99,
+                "arAmountDisplay":"$113,000",
+                "postDueDisplay":"$78,000",
+                "percentage":69,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":35000.0,
+                      "amountDisplay":"$35,000"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":28000.0,
+                      "amountDisplay":"$28,000"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":50000.0,
+                      "amountDisplay":"$50,000"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-0.01,
+                      "amountDisplay":"-$0"
+                   }
+                ]
+             },
+             {
+                "id":39,
+                "name":"Accolite Inc",
+                "arAmount":-37730.71999999997,
+                "postDue":-343673.55,
+                "arAmountDisplay":"-$37,731",
+                "postDueDisplay":"-$343,674",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":305942.83,
+                      "amountDisplay":"$305,943"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":-224802.55,
+                      "amountDisplay":"-$224,803"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":-128627.0,
+                      "amountDisplay":"-$128,627"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":88273.0,
+                      "amountDisplay":"$88,273"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-78517.0,
+                      "amountDisplay":"-$78,517"
+                   }
+                ]
+             },
+             {
+                "id":50,
+                "name":"Springbox Labs Inc",
+                "arAmount":82117.0,
+                "postDue":82117.0,
+                "arAmountDisplay":"$82,117",
+                "postDueDisplay":"$82,117",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":1200.0,
+                      "amountDisplay":"$1,200"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":2400.0,
+                      "amountDisplay":"$2,400"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":51,
+                "name":"Versata Software Inc",
+                "arAmount":74535.68,
+                "postDue":27269.93,
+                "arAmountDisplay":"$74,536",
+                "postDueDisplay":"$27,270",
+                "percentage":36,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":47265.75,
+                      "amountDisplay":"$47,266"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":33090.75,
+                      "amountDisplay":"$33,091"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-5820.82,
+                      "amountDisplay":"-$5,821"
+                   }
+                ]
+             },
+             {
+                "id":46,
+                "name":"Idera Inc",
+                "arAmount":-271688.2,
+                "postDue":-78738.20000000001,
+                "arAmountDisplay":"-$271,688",
+                "postDueDisplay":"-$78,738",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":-192950.0,
+                      "amountDisplay":"-$192,950"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":-114749.99,
+                      "amountDisplay":"-$114,750"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":3200.0,
+                      "amountDisplay":"$3,200"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":-4000.0,
+                      "amountDisplay":"-$4,000"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":36811.79,
+                      "amountDisplay":"$36,812"
+                   }
+                ]
+             },
+             {
+                "id":47,
+                "name":"Redknee Inc",
+                "arAmount":39855.35,
+                "postDue":39855.35,
+                "arAmountDisplay":"$39,855",
+                "postDueDisplay":"$39,855",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":39855.35,
+                      "amountDisplay":"$39,855"
+                   }
+                ]
+             },
+             {
+                "id":52,
+                "name":"Worldline",
+                "arAmount":57000.0,
+                "postDue":28500.0,
+                "arAmountDisplay":"$57,000",
+                "postDueDisplay":"$28,500",
+                "percentage":50,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":28500.0,
+                      "amountDisplay":"$28,500"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":28500.0,
+                      "amountDisplay":"$28,500"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   }
+                ]
+             },
+             {
+                "id":40,
+                "name":"AquaFold Inc",
+                "arAmount":63163.0,
+                "postDue":63163.0,
+                "arAmountDisplay":"$63,163",
+                "postDueDisplay":"$63,163",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":25000.0,
+                      "amountDisplay":"$25,000"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":-128627.0,
+                      "amountDisplay":"-$128,627"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":88273.0,
+                      "amountDisplay":"$88,273"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   }
+                ]
+             },
+             {
+                "id":45,
+                "name":"g Team FZ-LLC",
+                "arAmount":83198.43,
+                "postDue":83198.43,
+                "arAmountDisplay":"$83,198",
+                "postDueDisplay":"$83,198",
+                "percentage":100,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":14175.0,
+                      "amountDisplay":"$14,175"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":69023.43,
+                      "amountDisplay":"$69,023"
+                   }
+                ]
+             },
+             {
+                "id":42,
+                "name":"CHSPSC LLC",
+                "arAmount":249695.78,
+                "postDue":175195.78,
+                "arAmountDisplay":"$249,696",
+                "postDueDisplay":"$175,196",
+                "percentage":70,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":74500.0,
+                      "amountDisplay":"$74,500"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":74500.0,
+                      "amountDisplay":"$74,500"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":78517.0,
+                      "amountDisplay":"$78,517"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":22178.78,
+                      "amountDisplay":"$22,179"
+                   }
+                ]
+             },
+             {
+                "id":44,
+                "name":"Embarcadero Technologies",
+                "arAmount":66600.0,
+                "postDue":-69800.0,
+                "arAmountDisplay":"$66,600",
+                "postDueDisplay":"-$69,800",
+                "percentage":0,
+                "color":"GREEN",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":136400.0,
+                      "amountDisplay":"$136,400"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":12900.0,
+                      "amountDisplay":"$12,900"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":-32700.0,
+                      "amountDisplay":"-$32,700"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":-50000.0,
+                      "amountDisplay":"-$50,000"
+                   }
+                ]
+             },
+             {
+                "id":49,
+                "name":"Sheridan Health Corp Inc",
+                "arAmount":161562.0,
+                "postDue":79962.0,
+                "arAmountDisplay":"$161,562",
+                "postDueDisplay":"$79,962",
+                "percentage":49,
+                "color":"RED",
+                "dueRangeList":[
+                   {
+                      "name":"CURRENT",
+                      "amount":81600.0,
+                      "amountDisplay":"$81,600"
+                   },
+                   {
+                      "name":"1 - 30 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"30 - 60 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"60 - 90 DAYS DUE",
+                      "amount":0.0,
+                      "amountDisplay":"$0"
+                   },
+                   {
+                      "name":"> 90 DAYS DUE",
+                      "amount":79962.0,
+                      "amountDisplay":"$79,962"
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }

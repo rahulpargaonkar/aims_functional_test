@@ -1,0 +1,1 @@
+AIMS_HOST_URL="https://ezhire-dev.accolite.com"
